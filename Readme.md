@@ -1,4 +1,8 @@
-The spanishWords2Json.js is designed to run in Browser.
+## This simple program is written to help convert Words in Duolingo into Anki Notes.
+
+#### The spanishWords2Json.js is designed to run in Browser.
+#### The Json2Anki.py can be ran in python
+
 
 ### Step 0 (Optional): See bottom.
 
@@ -33,5 +37,5 @@ allProcessedData
 ```
 C:\Users\username\Desktop\spanish.html
 ```
-## Step 0.3: save as .CSV file
-## Step 0.4: Open that CSV file in Visual Studio Code, use the multiple line feature to change format to fit Javascript
+#### Step 0.3: save as .CSV file
+#### Step 0.4: Open that CSV file in Visual Studio Code, use the multiple line feature to change format to fit Javascript
