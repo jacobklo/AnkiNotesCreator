@@ -81,5 +81,5 @@ div.o9Q4V2vd {
 @font-face { font-family: DejaVu Sans Mono; src: url('_DejaVuSansMono.ttf'); }
 '''
 
-
-convertSpanishWordsJson2Anki('spanishHTML')
+if __name__ == "__main__":
+  convertSpanishWordsJson2Anki('spanishHTML')
